@@ -1,0 +1,26 @@
+
+
+	body {
+	background-color: lightblue;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 16px; 
+	border: 10px solid red;
+	color: white;
+	}
+
+	#line1 {
+		background: red;
+	}
+
+	h1 {
+		color: yellow
+	}
+
+	nav {
+		color: orange;
+
+	}
+
+
