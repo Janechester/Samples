@@ -1,1 +1,1 @@
-# Website-a-day-project
+# Samples
